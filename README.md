@@ -1,6 +1,7 @@
 # DeepEmbeddingModel_ZSL-Pytorch
 
-#TODO:
+run with python 3.x with Pytorch 0.3
+# TODO:
 - AWA dataset
 
 # Tensorflow implementation.
