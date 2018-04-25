@@ -4,5 +4,5 @@ run with python 3.x with Pytorch 0.3
 # TODO:
 - AWA dataset
 
-# Tensorflow implementation.
-[DeepEmbeddingModel_ZSL](https://github.com/lzrobots/DeepEmbeddingModel_ZSL)
+# Tensorflow Implementation.
+please visit: [DeepEmbeddingModel_ZSL](https://github.com/lzrobots/DeepEmbeddingModel_ZSL)
