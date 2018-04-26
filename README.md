@@ -1,6 +1,6 @@
 # DeepEmbeddingModel_ZSL-Pytorch
-
-run with python 3.x with Pytorch 0.3
+Implementation for CVPR 2017 paper: Learning a Deep Embedding Model for Zero-Shot Learning
+running with python 3.x, Pytorch 0.3
 # TODO:
 - AWA dataset
 
