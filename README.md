@@ -1,7 +1,9 @@
 # DeepEmbeddingModel_ZSL-Pytorch
+
 Implementation for CVPR 2017 paper: Learning a Deep Embedding Model for Zero-Shot Learning
 
-#Howto
+# Howto
+
 `python cub_attribute.py`
 
 running with python 3.x, Pytorch 0.3/0.2
